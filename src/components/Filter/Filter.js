@@ -1,4 +1,4 @@
-export const Filter = ({ onChange, value }) => {
+export const Filter = ({ onChange}) => {
   return (
     <>
       <form>
